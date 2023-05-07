@@ -10,5 +10,6 @@ Resources for learning and DIY robotics
 * https://github.com/mathworks/MathWorks-Excellence-in-Innovation
 * https://faculty.sites.iastate.edu/jia/files/inline-files/quaternion.pdf
 * https://johnfoster.pge.utexas.edu/numerical-methods-book/LinearAlgebra_LU.html
+* https://courses.grainger.illinois.edu/cs357/sp2021/notes/ref-9-linsys.html
 
 
