@@ -8,4 +8,6 @@ Resources for learning and DIY robotics
 * https://asianroboticsreview.com/home584-html
 * https://www.kalmanfilter.net/default.aspx
 * https://github.com/mathworks/MathWorks-Excellence-in-Innovation
+* https://faculty.sites.iastate.edu/jia/files/inline-files/quaternion.pdf
+*
 
