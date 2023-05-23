@@ -13,6 +13,7 @@ Resources for learning and DIY robotics
 * https://courses.grainger.illinois.edu/cs357/sp2021/notes/ref-9-linsys.html
 * https://blog.shahjalalshohag.com/topic-list/
 * https://cses.fi/problemset/list/
+* https://coderefinery.org/
 * 
 
 
