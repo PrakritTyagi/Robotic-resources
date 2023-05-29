@@ -14,6 +14,8 @@ Resources for learning and DIY robotics
 * https://blog.shahjalalshohag.com/topic-list/
 * https://cses.fi/problemset/list/
 * https://coderefinery.org/
+* https://leimao.github.io/blog/CMake-Public-Private-Interface/
+* https://kubasejdak.com/modern-cmake-is-like-inheritance
 * 
 
 
