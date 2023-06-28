@@ -17,6 +17,7 @@ Resources for learning and DIY robotics
 * https://leimao.github.io/blog/CMake-Public-Private-Interface/
 * https://kubasejdak.com/modern-cmake-is-like-inheritance
 * https://cmake.org/cmake/help/book/mastering-cmake/
+* https://aleksandarhaber.com/starting-with-eigen-c-matrix-library/
 * 
 
 
