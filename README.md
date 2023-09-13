@@ -18,6 +18,8 @@ Resources for learning and DIY robotics
 * https://kubasejdak.com/modern-cmake-is-like-inheritance
 * https://cmake.org/cmake/help/book/mastering-cmake/
 * https://aleksandarhaber.com/starting-with-eigen-c-matrix-library/
+* https://mdobook.github.io/
+* https://algorithmsbook.com/optimization/
 * 
 
 
