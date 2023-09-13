@@ -20,6 +20,7 @@ Resources for learning and DIY robotics
 * https://aleksandarhaber.com/starting-with-eigen-c-matrix-library/
 * https://mdobook.github.io/
 * https://algorithmsbook.com/optimization/
+* https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/
 * 
 
 
